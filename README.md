@@ -9,8 +9,6 @@ software
 
 Data set contains: 
 - Jupyter notebooks for preprocessing all raw data into one feature vector, and for data analysis to obtain regression and classification results presented in the paper
-- all_avg_ratings_anonymized.csv can be loaded and analyzed via 6-compareInridePostride.ipynb
-- processed_data_anonymized.csv can be loaded and analyzed via 5-analysisClassif.ipynb. 
 - R script for mixed effect logistic regression model
 - Matlab scripts for cadence calculation
 
